@@ -16,7 +16,7 @@ For each specified number of features for selection, Recursive Feature Selection
 First section consists of basic EDA followed by Data Cleaning. The imbalanced data was upsampled before train_test_split() to 
 Second section is for creating the Random Forest model by first doing RandomSearchCV to narrow the scope of possible optimal parameters, followed by GridSearchCV for hyperparameter tuning.
 
-Third section is for creating the Logistic Regression model by doing GridSearchCV for hyperparameter tuning. RFE method was used to select best number of features because the f1 scores were generally higher than the ones obtained from SFM method of feature selection for the various number of features specified.
+Third section is for creating the Logistic Regression model by doing GridSearchCV for hyperparameter tuning. RFE method was used to select the best number of features because the f1 scores were generally higher than the ones obtained from SFM method of feature selection for the various number of features specified.
 ### File Name for Main Notebook: 
 
 Summary of results:
