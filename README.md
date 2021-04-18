@@ -2,6 +2,7 @@
 Using Random Forest and Logistic Regression models, with Qualitative Analysis, Insights and Recommendations
 
 This project uses the fictional bank credit card dataset from https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv
+
 Aim: to identify which customers are likely to attrite and to provide insights and recommendations to the bank 
 
 ## Organisation: Random Forest notebooks and Logistic Regression notebooks
