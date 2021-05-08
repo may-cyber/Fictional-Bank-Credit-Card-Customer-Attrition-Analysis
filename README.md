@@ -6,8 +6,6 @@ This project uses the fictional bank credit card dataset from https://www.kaggle
 Aim: to identify which customers are likely to attrite and to provide insights and recommendations to the bank 
 
 ## Organisation: 
-Main Notebook:
-
 
 ### Main notebook: Completed Notebook.ipynb
 
